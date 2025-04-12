@@ -1,4 +1,13 @@
-Project Name: Student Management System
-Language: Java
-Description: A simple console-based application to add, view, update, and delete student records.
-Technologies Used: Java, ArrayList, Scanner
+# 🎓 Student Management System
+
+A simple **Java Console Application** to manage student records — built using **Object-Oriented Programming (OOP)** concepts.
+
+---
+
+## 📂 Project Structure
+
+```bash
+StudentManagementSystem/
+│
+├── StudentManagementSystem.java
+├── README.md
